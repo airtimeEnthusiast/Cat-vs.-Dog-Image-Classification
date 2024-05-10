@@ -44,5 +44,5 @@
   - Fully connected layer: Input size=512, Output size=2 (for binary classification)
  
 ### Results
-![Alt text](Results.jpeg?raw=true "Metrics Scores")
+![Alt text](images/Results.jpg?raw=true "Metrics Scores")
 
